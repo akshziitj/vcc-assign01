@@ -1,0 +1,58 @@
+00:00:00.008257 main     VirtualBox COM Server 7.0.2 r154219 win.amd64 (Oct 19 2022 21:29:26) release log
+00:00:00.008261 main     Log opened 2023-03-05T01:38:07.086436300Z
+00:00:00.008262 main     Build Type: release
+00:00:00.008272 main     OS Product: Windows 11
+00:00:00.008274 main     OS Release: 10.0.22621
+00:00:00.008275 main     OS Service Pack: 
+00:00:00.058427 main     DMI Product Name: Infinix INBOOK X1 SLIM
+00:00:00.090751 main     DMI Product Version: Default string
+00:00:00.090786 main     Firmware type: UEFI
+00:00:00.091373 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.091419 main     Host RAM: 7930MB (7.7GB) total, 1775MB available
+00:00:00.091425 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.091426 main     Process ID: 16820
+00:00:00.091426 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.213387          VirtualBox: object creation starts
+00:00:00.213896          Home directory: 'C:\Users\Abhishek\.VirtualBox'
+00:00:00.214092          Installed Drivers:
+00:00:00.224175            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.2.4219)
+00:00:00.225850            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.2.4219)
+00:00:00.226523            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.2.4219)
+00:00:00.228435            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.2.4219)
+00:00:00.246045          usbLibGetDevices: Starting USB device enumeration
+00:00:00.282221          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&18b7230f&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.284344          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&18b7230f&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.284508          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&18b7230f&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.290805          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.290958          USB: Unknown USB device detected (idVendor: 0x0c45, idProduct: 0x636b)
+00:00:00.291008          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0aaa)
+00:00:00.446259          netIfIsWireless: CreateFile on '\\.\{A73AF30C-0ADA-4F14-B9F6-D4222CDE5A15}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.456801          HostDnsMonitor: initializing
+00:00:00.471400          HostDnsMonitor: updating information
+00:00:00.471478          HostDnsMonitor: old information
+00:00:00.471479            no server entries
+00:00:00.471480            no domain set
+00:00:00.471481            no search string entries
+00:00:00.471481          HostDnsMonitor: new information
+00:00:00.471482            server 1: 192.168.1.1
+00:00:00.471483            no domain set
+00:00:00.471484            no search string entries
+00:00:00.476485          VD: VDInit finished with VINF_SUCCESS
+00:00:00.480242          VirtualBox: object created
+00:00:00.585069          Saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.590362          Finished saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml"
+00:00:00.591058          Saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.595893          Finished saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml"
+00:00:00.601424          Saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.606499          Finished saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml"
+00:00:01.450417          Saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.454860          Finished saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml"
+00:00:02.409778          Saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.414688          Finished saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml"
+00:00:02.777058          Saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.782189          Finished saving settings file "C:\Users\Abhishek\.VirtualBox\VirtualBox.xml"
+00:00:51.176469 main     VirtualBox: object deletion starts
+00:00:51.183534 main     HostDnsMonitor: shutting down ...
+00:00:51.183608 main     HostDnsMonitor: shut down
+00:00:51.300293 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:51.311987 main     VirtualBox: object deleted

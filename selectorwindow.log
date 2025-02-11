@@ -1,0 +1,20 @@
+00:00:00.829100 VirtualBox GUI VM Selector Window 7.0.2 r154219 win.amd64 (Oct 19 2022 21:29:26) release log
+00:00:00.829103 Log opened 2023-03-05T01:38:07.619914900Z
+00:00:00.829104 Build Type: release
+00:00:00.829110 OS Product: Windows 11
+00:00:00.829112 OS Release: 10.0.22621
+00:00:00.829112 OS Service Pack: 
+00:00:00.857314 DMI Product Name: Infinix INBOOK X1 SLIM
+00:00:00.865974 DMI Product Version: Default string
+00:00:00.866020 Firmware type: UEFI
+00:00:00.866712 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.866750 Host RAM: 7930MB (7.7GB) total, 1804MB available
+00:00:00.866755 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.866756 Process ID: 11192
+00:00:00.866757 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.866983 Qt version: 5.15.2
+00:00:00.868279 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.896344 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.896410 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:42.487981 GUI: UICommon: Handling aboutToQuit request..
+00:00:46.529039 GUI: UICommon: aboutToQuit request handled!
